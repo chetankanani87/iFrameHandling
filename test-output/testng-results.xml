@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2018-08-28T17:03:31Z" name="Default suite" finished-at="2018-08-28T17:03:46Z" duration-ms="15146">
+    <groups>
+    </groups>
+    <test started-at="2018-08-28T17:03:31Z" name="Default test" finished-at="2018-08-28T17:03:46Z" duration-ms="15146">
+      <class name="iFramesDemo.IFrameHandling">
+        <test-method is-config="true" signature="InvokeBrowser()[pri:0, instance:iFramesDemo.IFrameHandling@7f4d9395]" started-at="2018-08-28T13:03:31Z" name="InvokeBrowser" finished-at="2018-08-28T13:03:32Z" duration-ms="1144" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InvokeBrowser -->
+        <test-method signature="IFrameHandle()[pri:0, instance:iFramesDemo.IFrameHandling@7f4d9395]" started-at="2018-08-28T13:03:32Z" name="IFrameHandle" finished-at="2018-08-28T13:03:42Z" duration-ms="9579" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IFrameHandle -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:iFramesDemo.IFrameHandling@7f4d9395]" started-at="2018-08-28T13:03:42Z" name="tearDown" finished-at="2018-08-28T13:03:46Z" duration-ms="4404" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- iFramesDemo.IFrameHandling -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
